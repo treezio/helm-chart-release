@@ -1,0 +1,10 @@
+apiVersion: v1
+appVersion: 2.0.0
+description: treezio test-notification-releases
+home: https://github.com/treezio/test-releases-notifications
+maintainers:
+- name: treezio
+name: test-notification-releases
+sources:
+- https://github.com/treezio/test-releases-notifications
+version: 0.0.1
