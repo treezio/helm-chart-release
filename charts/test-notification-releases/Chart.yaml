@@ -7,4 +7,4 @@ maintainers:
 name: test-notification-releases
 sources:
 - https://github.com/treezio/test-releases-notifications
-version: 0.0.5
+version: 0.0.6
