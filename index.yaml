@@ -3,6 +3,20 @@ entries:
   test-notification-releases:
   - apiVersion: v1
     appVersion: 2.0.0
+    created: "2023-10-18T08:35:07.312346733Z"
+    description: treezio test-notification-releases
+    digest: c441a46f70e72a3020d10f35b04dfba5b1c37715ce23bbbf20a580dc7e28c2ae
+    home: https://github.com/treezio/test-releases-notifications
+    maintainers:
+    - name: treezio
+    name: test-notification-releases
+    sources:
+    - https://github.com/treezio/test-releases-notifications
+    urls:
+    - https://github.com/treezio/helm-chart-release/releases/download/test-notification-releases-0.0.7/test-notification-releases-0.0.7.tgz
+    version: 0.0.7
+  - apiVersion: v1
+    appVersion: 2.0.0
     created: "2023-10-16T14:04:12.395881051Z"
     description: treezio test-notification-releases
     digest: d347aad5d57b70bbe3ddfdea1f73aa3266476cee8d8d2853ac30fc105241bddf
